@@ -145,13 +145,12 @@ Run all tests:
 
 ## 📄 Documentation Files
 
-| File                    | Description                         |
-|-------------------------|-------------------------------------|
-| `README.md`             | This project documentation          |
-| `prompts.md`            | All ChatGPT prompts used     |
-| `application.properties`| DB and Swagger settings             |
-| `architecture.pptx`     | High-level design diagrams          |
-| `docs/*.drawio`         | Architecture diagrams               |
+| File                     | Description                                 |
+|--------------------------|---------------------------------------------|
+| `README.md`              | This project documentation                  |
+| `prompts.md`             | All ChatGPT prompts used                    |
+| `application.properties` | DB and Swagger settings                     |
+| `Design_PPT.pptx`        | Architecture and High-level design diagrams |
 
 ---
 
