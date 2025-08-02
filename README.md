@@ -50,7 +50,6 @@ src/
 │   │   └── TaskSchedulerApplication.java
 │   └── resources/
 │       ├── application.properties
-│       └── schema.sql (optional)
 ├── test/
 │   └── java/com/example/taskscheduler/
 │       ├── service/TaskServiceImplTest.java
